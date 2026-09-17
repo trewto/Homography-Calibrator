@@ -1,0 +1,7 @@
+# Runtime packages imported by Video Homography Calibration V5.
+# Tkinter/Tcl-Tk must be available in the Python/desktop environment.
+# Versions are unpinned: the source does not declare a tested dependency lockfile.
+numpy
+opencv-python
+pyproj
+Pillow
